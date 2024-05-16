@@ -1,7 +1,3 @@
-<script>
-	let;
-</script>
-
 <h1>Welcome to Azure</h1>
 
 <p>
